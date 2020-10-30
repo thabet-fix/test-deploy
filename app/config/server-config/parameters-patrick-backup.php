@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'prestadb',
+    'database_user' => 'db_sosmatelas',
+    'database_password' => 'h4Dr5D2!XMqJSK',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'iLUW5YcIX22xGzZTSWMvbhmEQNBgoScCNLEfgrXvGAZa1x8CYnmcGaAZ',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-05-22',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'PugWhEIfSdudTqIPap0oSDPDv5e6C7wm0o2HHbNSLIInConzyIuAVmZy',
+    'cookie_iv' => 'EgAYgmPz',
+    'new_cookie_key' => 'def000008d9b3b7531e102408fa41d866efc13da9d4269a18e4d0a148aff6dd84a465f262cb511e42f3382b72d8c66e63bccae83ca60e60008d28901f0512108a95c0d81',
+  ),
+);
